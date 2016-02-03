@@ -1,0 +1,25 @@
+{
+  "name": "footsizer",
+  "version": "1.0.0",
+  "description": "API's for FootSizer iOS app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "footsizer"
+  },
+  "keywords": [
+    "measure"
+  ],
+  "author": "ajay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "morgan": "^1.6.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
